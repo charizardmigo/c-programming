@@ -15,7 +15,8 @@ int main(void)
     metre = cent / 100.00f;
     kilo = cent / 100000.00f;
 
-    printf("\n%fcm in m is %fm and in km is %fkm", cent, metre, kilo);
+    printf("\n%.fcm in metre is %.3fm and in kilometre is %.6fkm", cent, metre, kilo);
 
     return 0;
 }
+
