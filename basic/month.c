@@ -4,50 +4,50 @@
 
 #include <stdio.h>
 #include <stdlib.h>
- 
+
 int main(void)
 {
     int month;
 
     printf("Enter a month number: ");
     scanf("%d", &month);
-
+    printf("\n");
     switch (month){
 
-        case 1: printf("Number of days in January are 31");
+        case 1: printf("January has 31 days");
                 break;
 
-        case 2: printf("Number of days in February are 28/29");
+        case 2: printf("February has 28/29 days");
                 break;
 
-        case 3: printf("Number of days in March are 31");
+        case 3: printf("March has 31 days");
                 break;
 
-        case 4: printf("Number of days in April are 30");
+        case 4: printf("April has 30 days");
                 break;
 
-        case 5: printf("Number of days in May are 31");
+        case 5: printf("May has 31 days");
                 break;
 
-        case 6: printf("Number of days in June are 30");
+        case 6: printf("June has 30 days");
                 break;
 
-        case 7: printf("Number of days in July are 31");
+        case 7: printf("July has 31 days");
                 break;
 
-        case 8: printf("Number of days in August are 31");
+        case 8: printf("August has 31 days");
                 break;
 
-        case 9: printf("Number of days in September are 30");
+        case 9: printf("September has 30 days");
                 break;
 
-        case 10: printf("Number of days in October are 31");
+        case 10: printf("October has 31 days");
                 break;
 
-        case 11: printf("Number of days in November are 30");
+        case 11: printf("November has 30 days");
                 break;
 
-        case 12: printf("Number of days in December are 31");
+        case 12: printf("December has 31 days");
                 break;
 
         default: printf("INVALID MONTH");
@@ -56,3 +56,4 @@ int main(void)
 
     return 0;
 }
+
