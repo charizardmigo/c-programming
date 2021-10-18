@@ -13,7 +13,7 @@ int main(void)
     printf("Enter a number: ");
     scanf("%d", &num);
 
-    printf("\nThe Multiplication Table is:\n");
+    printf("\nThe Multiplication Table of %d is:\n", num);
 
     for (i = 10; i <= 22; i++){
         result = num * i;
