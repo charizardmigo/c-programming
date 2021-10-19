@@ -9,9 +9,9 @@ int main(void)
 {
     int num, pow, i, result = 1;
 
-    printf("Input Base: ");
+    printf("Input a Base: ");
     scanf("%d", &num);
-    printf("Input Exponent: ");
+    printf("Input a Exponent: ");
     scanf("%d", &pow);
 
     for (i = 1; i <= pow; i++){
