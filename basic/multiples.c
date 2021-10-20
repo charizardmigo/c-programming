@@ -14,16 +14,16 @@ int main(void)
     printf("\n");
 
     if (num % 7 == 0 && num % 3 == 0)
-        printf("The number is a multiple of both 3 and 7");
+        printf("%d is a multiple of both 3 and 7", num);
 
     else if (num % 3 == 0)
-        printf("The number is a multiple of 3");
+        printf("%d is a multiple of 3", num);
 
     else if (num % 7 == 0)
-        printf("The number is a multiple of 7");
+        printf("%d is a multiple of 7", num);
 
     else
-        printf("The number is neither a multiple of 3 nor 7");
+        printf("%d is neither a multiple of 3 nor 7", num);
 
     return 0;
 }
