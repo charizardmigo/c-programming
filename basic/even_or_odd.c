@@ -28,7 +28,6 @@ int main(void)
        case 5: printf("The day of the week is Friday");
                break;
 
-
        case 6: printf("The day of the week is Saturday");
                break;
 
