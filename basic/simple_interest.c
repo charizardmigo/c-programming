@@ -13,8 +13,10 @@ int main(void)
 
     printf("Enter the principal: ");
     scanf("%ld", &principal);
+
     printf("Enter the rate: ");
     scanf("%f", &rate);
+
     printf("Enter the time (in years): ");
     scanf("%d", &time);
 
