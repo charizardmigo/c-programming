@@ -15,7 +15,6 @@ int main(void)
     //Computes absolute value of difference between n and 51
     abs = (n - 51) > 0 ? (n - 51) : 51 - n;
 
-    //
     trip = n > 51 ? abs * 3 : abs;
 
     printf("%d", trip);
