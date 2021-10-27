@@ -12,13 +12,11 @@ int main(void)
     printf("Enter a number: ");
     scanf("%d", &num);
 
-    printf("\n");
-
     if (num >= 100 && num <= 200)
-        printf("%d lies between 100 and 200", num);
+        printf("\n%d lies between 100 and 200", num);
 
     else
-        printf("%d doesn't lie between 100 and 200", num);
+        printf("\n%d doesn't lie between 100 and 200", num);
 
     return 0;
 }
