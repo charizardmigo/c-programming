@@ -22,7 +22,7 @@ int main(void)
 
     simple_interest = (principal * (rate / 100.00f) * time) / 100.00f;
 
-    printf("\nThe Simple Interest is %.2f per year.", simple_interest);
+    printf("\nThe Simple Interest is %.2f per year", simple_interest);
 
     return 0;
 }
