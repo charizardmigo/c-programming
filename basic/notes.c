@@ -17,8 +17,11 @@ int main(void)
     twok = ((amount - (10000 * tenk)) - (5000 * fivek)) / 2000;
     onek = (((amount - (10000 * tenk)) - (5000 * fivek)) - (twok * 2000)) / 1000;
     fapshi = ((((amount - (10000 * tenk)) - (5000 * fivek)) - (twok * 2000)) - (onek * 1000)) / 500;
+
     pies = (((((amount - (10000 * tenk)) - (5000 * fivek)) - (twok * 2000)) - (onek * 1000)) - (fapshi * 500)) / 100;
+
     fifty = ((((((amount - (10000 * tenk)) - (5000 * fivek)) - (twok * 2000)) - (onek * 1000)) - (fapshi * 500)) - (pies * 100)) / 50;
+
     twentyfive = (((((((amount - (10000 * tenk)) - (5000 * fivek)) - (twok * 2000)) - (onek * 1000)) - (fapshi * 500)) - (pies * 100)) - (fifty * 50)) / 25;
 
     printf("\n\tThe amount %d contains: \n\n", amount);
