@@ -18,7 +18,7 @@ int main(void)
     printf("Enter a command: ");
     scanf("%d", &command);
 
-    switch(command){
+    switch (command){
         case 1: printf("Their sum is %.2f", num1 + num2);
                 break;
 
