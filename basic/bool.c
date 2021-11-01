@@ -13,6 +13,7 @@ int main(void)
 
     printf("Enter an integer: ");
     scanf("%d", &i);
+
     printf("Enter another integer: ");
     scanf("%d", &j);
 
