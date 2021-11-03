@@ -11,6 +11,7 @@ int main(void)
 
     printf("Enter any letter from the alphabet: ");
     ch = getchar();
+
     printf("\n");
 
     if (ch < 'A' || ch > 'z'){
