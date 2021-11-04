@@ -22,7 +22,7 @@ int main(void)
         printf("The triangle is valid");
 
     else
-        printf("The triangle is invalid");
+        printf("Invalid triangle");
 
     return 0;
 }
