@@ -1,6 +1,6 @@
 //NAME: PRIESTLEY FOMECHE
 //AIM: DISPLAYS NUMBER OF SUBNOTES IN A GIVEN AMOUNT
-//DATE: 22ND JULY, 2021
+//DATE: 23rd JULY, 2021
 
 #include <stdio.h>
 #include <stdlib.h>
