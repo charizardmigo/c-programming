@@ -5,13 +5,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void)
+int main (void)
 {
     int month;
 
     printf("Enter a month number: ");
     scanf("%d", &month);
+
     printf("\n");
+    
     switch (month){
 
         case 1: printf("January has 31 days");

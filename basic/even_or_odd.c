@@ -1,18 +1,18 @@
 //NAME: PRIESTLEY FOMECHE
-//AIM: CHECKS IF A NUMBER IS EVEN OR ODD
+//AIM: PRINTS DAY OF THE WEEK FROM A NUMBER ENTERED BY USER
 //DATE: 22ND JULY, 2021
 
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void)
+int main (void)
 {
     int week;
 
     printf("Enter week number: ");
     scanf("%d", &week);
 
-    switch(week){
+    switch (week){
        case 1: printf("The day of the week is Monday");
                break;
 
