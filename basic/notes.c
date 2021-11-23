@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void)
+int main (void)
 {
     int amount, tenk, fivek, twok, onek, fapshi, pies, fifty, twentyfive;
 
