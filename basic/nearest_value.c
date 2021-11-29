@@ -11,8 +11,10 @@ int main (void)
 
     printf("Enter a number: ");
     scanf("%d", &num1);
+
     printf("Enter another number: ");
     scanf("%d", &num2);
+    
     printf("\n");
 
     near = (100 - num1) < (100 - num2) ? num1 : num2;
