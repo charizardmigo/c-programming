@@ -18,6 +18,7 @@ int main (void)
             printf("Invalid Operation!\n");
             break;
         }
+        
         else
             reserve -= request;
             printf("\n\nThere are %d newspaper(s) left!\n\n", reserve);
