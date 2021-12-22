@@ -11,6 +11,7 @@ int main (void)
 
     printf("Enter the diameter of a cone: ");
     scanf("%f", &diameter);
+    
     printf("Enter the height of the cone: ");
     scanf("%f", &height);
 
