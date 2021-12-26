@@ -1,5 +1,5 @@
 //NAME: PRIESTLEY FOMECHE
-//AIM: PROGRAM TO COMPUTE AREA OF SQUARE
+//AIM: PROGRAM TO COMPUTE THE AREA OF SQUARE
 //DATE: 28th NOVEMBER 2021
 
 #include <stdio.h>
@@ -17,7 +17,7 @@ int main (void)
    do {
         printf("Guess the area of the square: ");
         scanf("%d", &area2);
-
+        
    }  while (area2 != area1);
 
     return 0;
