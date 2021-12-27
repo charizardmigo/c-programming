@@ -16,7 +16,7 @@ int main (void)
 
     speed = distance / time;
 
-    printf("The  average speed is %.2f", speed);
+    printf("The  average speed is %.3f", speed);
 
     return 0;
 }
