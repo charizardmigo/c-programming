@@ -1,6 +1,6 @@
 //NAME: PRIESTLEY FOMECHE
 //AIM: PROGRAM TO COMPUTE AREA OF SQUARE
-//DATE: 28th NOVEMBER 2021
+//DATE: 28th NOVEMBER, 2021
 
 #include <stdio.h>
 #include <stdlib.h>
