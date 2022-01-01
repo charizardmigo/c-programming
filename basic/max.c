@@ -1,5 +1,5 @@
 //NAME: PRIESTLEY FOMECHE
-//AIM: PRINTS GREATEST NUMBER AMONG 3 
+//AIM: PRINTS THE GREATEST NUMBER AMONG 3 
 //DATE: 22ND JULY, 2021
 
 #include <stdio.h>
@@ -12,7 +12,7 @@ int main (void)
     printf("Enter three numbers (separated with spaces): ");
     scanf("%d%d%d", &a, &b, &c);
 
-    if(a > b && a > c)
+    if (a > b && a > c)
         printf("Max number is %d", a);
 
     else if (b > a && b > c)

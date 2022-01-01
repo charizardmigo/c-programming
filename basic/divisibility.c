@@ -11,6 +11,7 @@ int main (void)
 
     printf("Enter a number: ");
     scanf("%d", &a);
+    
     printf("\n");
 
     if ((a % 5) == 0 && (a % 11) == 0)

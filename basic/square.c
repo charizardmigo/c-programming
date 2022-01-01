@@ -1,6 +1,11 @@
 //NAME: PRIESTLEY FOMECHE
+<<<<<<< HEAD
 //AIM: PROGRAM TO COMPUTE AREA OF SQUARE
 //DATE: 28th NOVEMBER, 2021
+=======
+//AIM: PROGRAM TO COMPUTE THE AREA OF SQUARE
+//DATE: 28th NOVEMBER 2021
+>>>>>>> bcb176c5968a7f5c6188267e67baea4610e21e63
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -17,7 +22,7 @@ int main (void)
    do {
         printf("Guess the area of the square: ");
         scanf("%d", &area2);
-
+        
    }  while (area2 != area1);
 
     return 0;

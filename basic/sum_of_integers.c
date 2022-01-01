@@ -11,6 +11,7 @@ int main (void)
 
     printf("Enter an integer: ");
     scanf("%d", &num1);
+    
     printf("Enter another integer: ");
     scanf("%d", &num2);
 
