@@ -15,12 +15,12 @@ int main (void)
     printf("\n");
 
     if (ch < 'A' || ch > 'z'){
-        printf("Invalid Character");
+        printf("Invalid Character!");
         return 0;
     }
 
     else if (ch > 'Z' && ch < 'a'){
-        printf("Invalid Character");
+        printf("Invalid Character!");
         return 0;
     }
 
