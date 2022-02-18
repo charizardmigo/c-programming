@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main (void)
+int main (void) 
 {
     float num1, num2;
     int command;
