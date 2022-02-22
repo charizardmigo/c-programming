@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-int main (void)
+int main (void) 
 {
     int i, j;
     const int x = 30;
