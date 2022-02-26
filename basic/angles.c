@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main (void) 
+int main (void)     
 {
     float ang1, ang2, ang3, sum;
 
