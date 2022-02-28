@@ -12,7 +12,7 @@ int main (void)
     printf("Enter the distance travelled: ");
     scanf("%f", &distance);
     printf("Enter the total time taken: ");
-    scanf("%f", &time);
+    scanf("%f", &time);   
 
     speed = distance / time;
 
