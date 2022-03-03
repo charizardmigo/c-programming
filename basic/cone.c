@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 int main (void)            
-{
+{  
     float diameter, height, area;
 
     printf("Enter the diameter of a cone: ");
