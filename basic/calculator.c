@@ -7,7 +7,7 @@
   
 int main (void) 
 {
-    float num1, num2;
+    float num1, num2;  
     int command;
 
     printf("COMMANDS:\n0 = EXIT\n1 = ADD\n2 = SUBTRACT\n3 = MULTIPLY\n4 = DIVIDE\n\n");
