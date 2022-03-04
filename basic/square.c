@@ -7,7 +7,7 @@
 
 int main (void)    
 {
-    int length, area1, area2;
+    int length, area1, area2;  
 
     printf("Enter the length of a square: ");
     scanf("%d", &length);
