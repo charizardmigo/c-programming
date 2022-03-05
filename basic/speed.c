@@ -19,4 +19,4 @@ int main (void)
     printf("The  average speed is %.3f", speed);
 
     return 0;
-}
+}   
