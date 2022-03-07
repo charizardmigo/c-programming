@@ -13,7 +13,7 @@ int main (void)
     scanf("%d", &month);
     printf("\n");
     
-    switch (month){
+    switch (month){  
 
         case 1: printf("January has 31 days");
                 break;
