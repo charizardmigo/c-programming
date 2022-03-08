@@ -6,7 +6,7 @@
 #include <stdlib.h> 
 
 int main (void) 
-{
+{   
     float cent, metre, kilo;
 
     printf("Enter a dimension in cm: ");
