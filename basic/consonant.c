@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 int main (void)            
-{
+{   
     char ch;
 
     printf("Enter any letter from the alphabet: ");
