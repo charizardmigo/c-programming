@@ -15,7 +15,7 @@ int main (void)
     printf("Enter the height of the cone: ");
     scanf("%f", &height);
 
-    area = diameter * height;
+    area = diameter * height;   
 
     printf("The area is %.2f", area);
 
