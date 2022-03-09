@@ -15,7 +15,7 @@ int main (void)
     printf("\n");
 
     if (ch < 'A' || ch > 'z'){
-        printf("Invalid Character!");
+        printf("Invalid Character!");    
         return 0;   
     }
 
