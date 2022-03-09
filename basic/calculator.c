@@ -31,7 +31,7 @@ int main (void)
         case 4: printf("Their quotient is %.2f", num1 / num2);
                 break;
 
-        case 0: break;
+        case 0: break;   
 
         default: printf("INCORRECT COMMAND");
                  break;
