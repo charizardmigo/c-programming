@@ -13,10 +13,10 @@ int main (void)
     scanf("%d%d%d", &a, &b, &c);
 
     if (a > b && a > c)
-        printf("Max number is %d", a); 
+        printf("Max number is %d", a);  
 
     else if (b > a && b > c)
-        printf("Max number is %d", b);
+        printf("Max number is %d", b);   
 
     else
         printf("Max number is %d", c);
