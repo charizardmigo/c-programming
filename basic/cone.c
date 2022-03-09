@@ -17,7 +17,7 @@ int main (void)
 
     area = diameter * height;   
 
-    printf("The area is %.2f", area);
+    printf("The area is %.2f", area);   
 
     return 0;
 }
