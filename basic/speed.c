@@ -10,7 +10,7 @@ int main (void)
     float distance, speed, time;
 
     printf("Enter the distance travelled: ");
-    scanf("%f", &distance);
+    scanf("%f", &distance);   
     printf("Enter the total time taken: ");
     scanf("%f", &time);   
 
