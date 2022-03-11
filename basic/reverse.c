@@ -20,4 +20,4 @@ int main (void)
     printf("The reverse is %d", reverse);
 
     return 0;
-}
+}    
