@@ -19,7 +19,7 @@ int main (void)
         printf("Max number is %d", b);   
 
     else    
-        printf("Max number is %d", c);
+        printf("Max number is %d", c);      
 
     return 0;
 }
