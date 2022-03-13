@@ -17,7 +17,7 @@ int main (void)
         printf("%d is a multiple of both 3 and 7", num);
 
     else if (num % 3 == 0)
-        printf("%d is a multiple of 3", num);
+        printf("%d is a multiple of 3", num);    
 
     else if (num % 7 == 0)
         printf("%d is a multiple of 7", num);
