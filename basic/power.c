@@ -14,8 +14,8 @@ int main (void)
     printf("Input a Exponent: ");
     scanf("%d", &pow);
 
-    for (i = 1; i <= pow; i++){
-        result *= num;  
+    for (i = 1; i <= pow; i++){    
+        result *= num;   
     }     
 
     printf("\n%d ^ %d = %d", num, pow, result);    
