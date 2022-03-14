@@ -18,7 +18,7 @@ int main (void)
         printf("Guess the area of the square: ");
         scanf("%d", &area2);   
         
-   }  while (area2 != area1);
+   }  while (area2 != area1);    
 
     return 0;   
 } 
