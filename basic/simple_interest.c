@@ -11,7 +11,7 @@ int main (void)
     int time;
     float rate, simple_interest;
 
-    printf("Enter the principal: ");
+    printf("Enter the principal: ");    
     scanf("%ld", &principal);
 
     printf("Enter the rate: ");
