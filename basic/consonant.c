@@ -24,7 +24,7 @@ int main (void)
         return 0;
     }
 
-    else {
+    else {     
         switch (ch){    
             case 'A': case 'E': case 'I': case 'O': case 'U':
             case 'a': case 'e': case 'i': case 'o': case 'u':
