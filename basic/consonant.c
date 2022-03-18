@@ -10,7 +10,7 @@ int main (void)
     char ch;
 
     printf("Enter any letter from the alphabet: ");
-    ch = getchar();
+    ch = getchar();     
 
     printf("\n");
 
