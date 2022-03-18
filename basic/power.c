@@ -15,7 +15,7 @@ int main (void)
     scanf("%d", &pow);          
 
     for (i = 1; i <= pow; i++){    
-        result *= num;   
+        result *= num;        
     }     
 
     printf("\n%d ^ %d = %d", num, pow, result);    
