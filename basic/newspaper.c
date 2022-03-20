@@ -13,7 +13,7 @@ int main (void)
     printf("How many newspapers do you need? ");
     scanf("%d", &request);
 
-    while (reserve > 0){
+    while (reserve > 0){     
         if (reserve - request < 0){
             printf("Invalid Operation!\n");
             break;
