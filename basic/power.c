@@ -12,7 +12,7 @@ int main (void)
     printf("Input a Base: ");
     scanf("%d", &num);       
     printf("Input a Exponent: ");
-    scanf("%d", &pow);          
+    scanf("%d", &pow);               
 
     for (i = 1; i <= pow; i++){    
         result *= num;        
