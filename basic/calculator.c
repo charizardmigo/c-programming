@@ -23,7 +23,7 @@ int main (void)
                 break;
 
         case 2: printf("Their difference is %.2f", num1 - num2);
-                break;
+                break;     
 
         case 3: printf("Their product is %.2f", num1 * num2);
                 break;
