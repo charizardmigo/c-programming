@@ -10,7 +10,7 @@ int main (void)
     int a;
 
     printf("Enter a number: ");
-    scanf("%d", &a);
+    scanf("%d", &a);      
     
     printf("\n");
 
