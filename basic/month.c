@@ -10,7 +10,7 @@ int main (void)
     int month;
 
     printf("Enter a month number: ");  
-    scanf("%d", &month);
+    scanf("%d", &month);       
     printf("\n");
     
     switch (month){  
