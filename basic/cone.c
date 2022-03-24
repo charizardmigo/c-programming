@@ -19,5 +19,5 @@ int main (void)
 
     printf("The area is %.2f", area);   
 
-    return 0;
+    return 0;              
 }
