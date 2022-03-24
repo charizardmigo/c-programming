@@ -22,7 +22,7 @@ int main (void)
                 break;
 
         case 3: printf("March has 31 days");
-                break;
+                break;                 
 
         case 4: printf("April has 30 days");
                 break;
