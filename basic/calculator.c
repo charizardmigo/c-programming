@@ -2,7 +2,7 @@
 //AIM: SIMPLE CALCULATOR PROGRAM
 //DATE: 22ND JULY, 2021
 
-#include <stdio.h>
+#include <stdio.h>                  
 #include <stdlib.h>          
   
 int main (void) 
