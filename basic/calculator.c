@@ -20,7 +20,7 @@ int main (void)
 
     switch (command){
         case 1: printf("Their sum is %.2f", num1 + num2);
-                break;
+                break;                                   
 
         case 2: printf("Their difference is %.2f", num1 - num2);
                 break;     
