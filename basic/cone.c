@@ -13,7 +13,7 @@ int main (void)
     scanf("%f", &diameter);   
     
     printf("Enter the height of the cone: ");
-    scanf("%f", &height);
+    scanf("%f", &height);                 
 
     area = diameter * height;   
 
