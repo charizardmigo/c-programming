@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 int main (void) 
-{
+{                   
     int num;
 
     printf("Enter a number: ");
