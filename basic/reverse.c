@@ -17,7 +17,7 @@ int main (void)
         num /= 10;
     }
 
-    printf("The reverse is %d", reverse);
+    printf("The reverse is %d", reverse);               
 
     return 0;   
 }    
