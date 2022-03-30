@@ -9,7 +9,7 @@ int main (void)
 {   
     char ch;
 
-    printf("Enter any letter from the alphabet: ");
+    printf("Enter any letter from the alphabet: ");                 
     ch = getchar();     
 
     printf("\n");     
