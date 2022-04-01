@@ -13,7 +13,7 @@ int main (void)
     scanf("%f", &ang1);   
     printf("Enter second angle of the triangle: ");                
     scanf("%f", &ang2);    
-    printf("Enter third angle of the triangle: ");
+    printf("Enter third angle of the triangle: ");                
     scanf("%f", &ang3);
 
     sum = ang1 + ang2 + ang3;
