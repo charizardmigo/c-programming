@@ -7,7 +7,7 @@
 
 int main (void)            
 {  
-    float diameter, height, area;
+    float diameter, height, area;           
 
     printf("Enter the diameter of a cone: ");
     scanf("%f", &diameter);   
