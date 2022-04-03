@@ -1,6 +1,6 @@
 //NAME: PRIESTLEY FOMECHE
 //AIM: PROGRAM TO CALCULATE AVERAGE SPEED OF A CAR
-//DATE: 30th NOVEMBER, 2021
+//DATE: 30th NOVEMBER, 2021                 
 
 #include <stdio.h>
 #include <stdlib.h>
