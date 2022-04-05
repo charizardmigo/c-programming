@@ -7,7 +7,7 @@
 
 int main (void)  
 { 
-    int month;
+    int month;              
 
     printf("Enter a month number: ");  
     scanf("%d", &month);       
