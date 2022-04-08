@@ -13,7 +13,7 @@ int main (void)
     scanf("%d", &length);
 
     area1 = length * length;          
-
+                   
    do {
         printf("Guess the area of the square: ");            
         scanf("%d", &area2);   
