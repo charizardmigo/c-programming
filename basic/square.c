@@ -14,7 +14,7 @@ int main (void)
 
     area1 = length * length;          
                    
-   do {
+   do {             
         printf("Guess the area of the square: ");            
         scanf("%d", &area2);   
         
