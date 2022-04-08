@@ -20,5 +20,5 @@ int main (void)
         
    }  while (area2 != area1);                   
 
-    return 0;   
+    return 0;                        
 }                            
