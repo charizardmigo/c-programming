@@ -11,7 +11,7 @@ int main (void)
     long result;
 
     printf("Enter a number: ");
-    scanf("%d", &num);
+    scanf("%d", &num);           
 
     printf("\nThe Multiplication Table is:\n");
 
