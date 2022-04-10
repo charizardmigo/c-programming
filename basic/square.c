@@ -19,6 +19,6 @@ int main (void)
         scanf("%d", &area2);   
         
    }  while (area2 != area1);                   
-
+                 
     return 0;                        
 }                            
