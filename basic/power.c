@@ -3,7 +3,7 @@
 //DATE: 13TH OCTOBER, 2021
 
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h>           
 
 int main (void)       
 {
