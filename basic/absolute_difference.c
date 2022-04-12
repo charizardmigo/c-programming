@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 int main (void)     
-{
+{             
     int n, abs, trip;
 
     printf("Enter a number, n: ");
