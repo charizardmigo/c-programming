@@ -9,7 +9,7 @@ int main (void)
 {
     int number;
 
-    do {
+    do {                   
         printf("Enter a number less than 5: ");
         scanf("%d", &number);           
 
