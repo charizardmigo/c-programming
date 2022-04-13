@@ -11,7 +11,7 @@ int main (void)
 
     printf("Enter a positive number: ");
     scanf("%d", &num);
-    printf("\n");
+    printf("\n");                  
 
     if (num % 7 == 0 && num % 3 == 0)
         printf("%d is a multiple of both 3 and 7", num);
