@@ -7,7 +7,7 @@
 
 int main (void)  
 {
-    int num;
+    int num;             
 
     printf("Enter a positive number: ");
     scanf("%d", &num);
