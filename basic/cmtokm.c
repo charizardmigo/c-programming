@@ -7,7 +7,7 @@
 
 int main (void) 
 {   
-    float cent, metre, kilo;
+    float cent, metre, kilo;              
 
     printf("Enter a dimension in cm: ");
     scanf("%f", &cent);
