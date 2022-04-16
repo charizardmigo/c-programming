@@ -29,7 +29,7 @@ int main (void)
     printf("\t5,000frs notes: %d\n", fivek);
     printf("\t2,000frs notes: %d\n", twok);
     printf("\t1,000frs notes: %d\n", onek);
-    printf("\t500frs notes: %d\n", fapshi);
+    printf("\t500frs notes: %d\n", fapshi);            
     printf("\t100frs coins: %d\n", pies);
     printf("\t50frs coins: %d\n", fifty);
     printf("\t25frs coins: %d\n\n", twentyfive);
