@@ -19,7 +19,7 @@ int main (void)
         result = num * i;            
         printf("\n%d x %d = %ld", num, i, result);
     }
-    printf("\n");
+    printf("\n");         
 
     return 0;
 }
