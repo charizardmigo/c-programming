@@ -13,7 +13,7 @@ int main (void)
     scanf("%f", &cent);
 
     metre = cent / 100.00f;
-    kilo = cent / 100000.00f;
+    kilo = cent / 100000.00f;         
 
     printf("\n%.fcm in metre is %.3fm and in kilometre is %.6fkm", cent, metre, kilo);
 
