@@ -7,7 +7,7 @@
 
 int main (void) 
 {
-    int reserve = 100, request;
+    int reserve = 100, request;              
 
     printf("THERE ARE CURRENTLY 100 NEWSPAPERS ON BOARD!\n\n");
     printf("How many newspapers do you need? ");
