@@ -10,7 +10,7 @@ int main (void)
     int i = 1, num;
     long result;
 
-    printf("Enter a number: ");
+    printf("Enter a number: ");                  
     scanf("%d", &num);           
 
     printf("\nThe Multiplication Table is:\n");
