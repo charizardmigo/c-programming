@@ -5,16 +5,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main (void)
+int main (void)       
 {
     long principal;
     int time;
     float rate, simple_interest;
 
-    printf("Enter the principal: ");
+    printf("Enter the principal: ");    
     scanf("%ld", &principal);
 
-    printf("Enter the rate: ");
+    printf("Enter the rate: ");            
     scanf("%f", &rate);
 
     printf("Enter the time (in years): ");

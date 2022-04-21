@@ -2,22 +2,28 @@
 //AIM: PROGRAM TO COMPUTE VOLUME OF A CONE
 //DATE: 27th NOVEMBER, 2021
 
-#include <stdio.h>
+#include <stdio.h>     
 #include <stdlib.h>
 
+<<<<<<< HEAD
 int main (void)
 {
     float diameter, height, area;   
+=======
+int main (void)            
+{  
+    float diameter, height, area;           
+>>>>>>> a6c0c114f8e40f95800cc78ba25e06f936344112
 
     printf("Enter the diameter of a cone: ");
-    scanf("%f", &diameter);
+    scanf("%f", &diameter);   
     
     printf("Enter the height of the cone: ");
-    scanf("%f", &height);
+    scanf("%f", &height);                 
 
-    area = diameter * height;
+    area = diameter * height;   
 
-    printf("The area is %.2f", area);
+    printf("The area is %.2f", area);   
 
-    return 0;
+    return 0;              
 }

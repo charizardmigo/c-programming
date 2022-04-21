@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main (void)
+int main (void) 
 {
     int num1, num2;
 
@@ -13,7 +13,7 @@ int main (void)
     scanf("%d", &num1);
     printf("Enter another positive integer: ");
     scanf("%d", &num2);
-    printf("\n");
+    printf("\n");    
 
     if ((num1 % 10) == (num2 % 10))
         printf("Both numbers have the same last digit");

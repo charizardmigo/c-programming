@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main (void)
+int main (void) 
 {
     int num, reverse = 0;
 
@@ -17,7 +17,7 @@ int main (void)
         num /= 10;
     }
 
-    printf("The reverse is %d", reverse);
+    printf("The reverse is %d", reverse);               
 
-    return 0;
-}
+    return 0;   
+}                                     
