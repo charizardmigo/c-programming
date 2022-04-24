@@ -18,7 +18,7 @@ int main (void)
         case 1: printf("January has 31 days");
                 break;                                
 
-        case 2: printf("February has 28/29 days");
+        case 2: printf("February has 28/29 days");    
                 break;
 
         case 3: printf("March has 31 days");         
