@@ -20,7 +20,7 @@ int main (void)
     }
 
     else if (ch > 'Z' && ch < 'a'){
-        printf("Invalid Character!");
+        printf("Invalid Character!");        
         return 0;
     }
 
