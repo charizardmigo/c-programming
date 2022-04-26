@@ -9,7 +9,7 @@ int main (void)
 {
     long principal;
     int time;
-    float rate, simple_interest;
+    float rate, simple_interest;          
 
     printf("Enter the principal: ");    
     scanf("%ld", &principal);
