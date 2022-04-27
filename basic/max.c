@@ -12,7 +12,7 @@ int main (void)
     printf("Enter three numbers (separated with spaces): ");
     scanf("%d%d%d", &a, &b, &c);             
 
-    if (a > b && a > c)
+    if (a > b && a > c)         
         printf("Max number is %d", a);  
 
     else if (b > a && b > c)
