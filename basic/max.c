@@ -8,7 +8,7 @@
 int main (void)  
 {
     int a, b, c;                         
-
+                    
     printf("Enter three numbers (separated with spaces): ");
     scanf("%d%d%d", &a, &b, &c);             
 
