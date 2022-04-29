@@ -15,7 +15,7 @@ int main (void)
     if (a > b && a > c)         
         printf("Max number is %d", a);  
 
-    else if (b > a && b > c)
+    else if (b > a && b > c)       
         printf("Max number is %d", b);   
 
     else    
