@@ -22,4 +22,4 @@ int main (void)
         printf("Max number is %d", c);      
        
     return 0;         
-}
+}                
