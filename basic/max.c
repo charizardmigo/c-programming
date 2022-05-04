@@ -1,6 +1,6 @@
 //NAME: PRIESTLEY FOMECHE
 //AIM: PRINTS THE GREATEST NUMBER AMONG 3 
-//DATE: 22ND JULY, 2021
+//DATE: 22ND JULY, 2021    
 
 #include <stdio.h>            
 #include <stdlib.h>                                 
