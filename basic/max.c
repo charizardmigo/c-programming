@@ -20,6 +20,6 @@ int main (void)
 
     else  
         printf("Max number is %d", c);      
-       
+                                    
     return 0;                                
 }                
