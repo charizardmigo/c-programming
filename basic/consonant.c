@@ -22,9 +22,10 @@ int main (void)
     else if (ch > 'Z' && ch < 'a'){
         printf("Invalid Character!");
         return 0;
-    }
+    }     
 
-    else {     
+    else {  
+           
         switch (ch){    
             case 'A': case 'E': case 'I': case 'O': case 'U':
             case 'a': case 'e': case 'i': case 'o': case 'u':
