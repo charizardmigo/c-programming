@@ -15,7 +15,7 @@ int main (void)
 
     while (reserve > 0){     
         if (reserve - request < 0){
-            printf("Invalid Operation!\n");
+            printf("Invalid Operation!\n");        
             break;                    
         }
         

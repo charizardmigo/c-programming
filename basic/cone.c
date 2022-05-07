@@ -5,9 +5,15 @@
 #include <stdio.h>     
 #include <stdlib.h>
 
+<<<<<<< HEAD
+int main (void)
+{
+    float diameter, height, area;   
+=======
 int main (void)            
 {  
     float diameter, height, area;           
+>>>>>>> a6c0c114f8e40f95800cc78ba25e06f936344112
 
     printf("Enter the diameter of a cone: ");
     scanf("%f", &diameter);   

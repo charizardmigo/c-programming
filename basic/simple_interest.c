@@ -9,7 +9,7 @@ int main (void)
 {
     long principal;
     int time;
-    float rate, simple_interest;
+    float rate, simple_interest;          
 
     printf("Enter the principal: ");    
     scanf("%ld", &principal);
@@ -17,7 +17,7 @@ int main (void)
     printf("Enter the rate: ");            
     scanf("%f", &rate);
 
-    printf("Enter the time (in years): ");
+    printf("Enter the time (in years): ");        
     scanf("%d", &time);
 
     simple_interest = (principal * (rate / 100.00f) * time) / 100.00f;

@@ -9,7 +9,7 @@ int main (void)
 { 
     int month;              
 
-    printf("Enter a month number: ");  
+    printf("Enter a month number: ");       
     scanf("%d", &month);       
     printf("\n");
     
@@ -18,10 +18,10 @@ int main (void)
         case 1: printf("January has 31 days");
                 break;                                
 
-        case 2: printf("February has 28/29 days");
+        case 2: printf("February has 28/29 days");    
                 break;
 
-        case 3: printf("March has 31 days");
+        case 3: printf("March has 31 days");         
                 break;                 
 
         case 4: printf("April has 30 days");
