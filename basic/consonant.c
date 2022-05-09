@@ -2,7 +2,7 @@
 //AIM: CHECKS IF AN ALPHABET IS A VOWEL OR CONSONANT
 //DATE: 13TH OCTOBER 2021
 
-#include <stdio.h>
+#include <stdio.h>                   
 #include <stdlib.h>
 
 int main (void)            
