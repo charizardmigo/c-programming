@@ -2,7 +2,7 @@
 //AIM: CHECKS IF AN ALPHABET IS A VOWEL OR CONSONANT
 //DATE: 13TH OCTOBER 2021
 
-#include <stdio.h>
+#include <stdio.h>                   
 #include <stdlib.h>
 
 int main (void)            
@@ -22,14 +22,15 @@ int main (void)
     else if (ch > 'Z' && ch < 'a'){
         printf("Invalid Character!");        
         return 0;
-    }
+    }     
 
-    else {     
+    else {  
+           
         switch (ch){    
-            case 'A': case 'E': case 'I': case 'O': case 'U':
-            case 'a': case 'e': case 'i': case 'o': case 'u':
+            case 'A': case 'E': case 'I': case 'O': case 'U':              
+            case 'a': case 'e': case 'i': case 'o': case 'u':                
                 printf("%c is a vowel", ch);
-                break;
+                break;              
 
             default:
                 printf("%c is a consonant", ch);
