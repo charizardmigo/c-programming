@@ -1,6 +1,6 @@
 //NAME: PRIESTLEY FOMECHE
 //AIM: DETECTS IF A TRIANGLE IS VALID OR NOT      
-//DATE: 22ND JULY, 2021
+//DATE: 22ND JULY, 2021            
 
 #include <stdio.h>                                   
 #include <stdlib.h>  
