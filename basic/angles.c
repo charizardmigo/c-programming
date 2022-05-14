@@ -11,7 +11,7 @@ int main (void)
 
     printf("Enter first angle of a triangle: ");
     scanf("%f", &ang1);   
-    printf("Enter second angle of the triangle: ");                      
+    printf("Enter second angle of the triangle: ");                           
     scanf("%f", &ang2);                                          
     printf("Enter third angle of the triangle: ");                
     scanf("%f", &ang3);
