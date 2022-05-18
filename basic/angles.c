@@ -20,7 +20,7 @@ int main (void)
  
     if (sum == 180)                       
         printf("The triangle is valid");   
-   
+      
     else      
         printf("Invalid triangle");          
                    
