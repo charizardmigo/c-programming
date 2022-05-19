@@ -14,7 +14,7 @@ int main (void)
     printf("Enter second angle of the triangle: ");                           
     scanf("%f", &ang2);                                          
     printf("Enter third angle of the triangle: ");                
-    scanf("%f", &ang3);            
+    scanf("%f", &ang3);              
 
     sum = ang1 + ang2 + ang3;     
  
