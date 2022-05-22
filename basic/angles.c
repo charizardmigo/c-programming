@@ -17,7 +17,7 @@ int main (void)
     scanf("%f", &ang3);                
 
     sum = ang1 + ang2 + ang3;         
- 
+   
     if (sum == 180)                          
         printf("The triangle is valid");   
       
