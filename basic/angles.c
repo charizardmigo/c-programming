@@ -19,7 +19,7 @@ int main (void)
     sum = ang1 + ang2 + ang3;             
      
     if (sum == 180)                          
-        printf("The triangle is valid");   
+        printf("The triangle is valid");     
             
     else      
         printf("Invalid triangle");                     
