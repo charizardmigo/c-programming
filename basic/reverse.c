@@ -16,7 +16,7 @@ int main (void)
         reverse = (reverse *10) + (num % 10);
         num /= 10;
     }
-
+  
     printf("The reverse is %d", reverse);               
 
     return 0;   
