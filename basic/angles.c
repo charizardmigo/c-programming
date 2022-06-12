@@ -23,5 +23,5 @@ int main (void)
             
     else      
         printf("Invalid triangle");                     
-                         
+                             
 }  
