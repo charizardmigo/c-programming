@@ -8,7 +8,7 @@
 int main (void)                     
 {                 
     float ang1, ang2, ang3, sum;         
-
+   
     printf("Enter first angle of a triangle: ");   
     scanf("%f", &ang1);           
     printf("Enter second angle of the triangle: ");                            
