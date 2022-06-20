@@ -22,6 +22,6 @@ int main (void)
         printf("The triangle is valid");         
                
     else        
-        printf("Invalid triangle");                     
+        printf("Invalid triangle");                       
                                 
 }  
