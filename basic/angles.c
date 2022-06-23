@@ -21,7 +21,7 @@ int main (void)
     if (sum == 180)                            
         printf("The triangle is valid");         
                
-    else        
+    else            
         printf("Invalid triangle");                       
                                 
 }  
