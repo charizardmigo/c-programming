@@ -2,8 +2,8 @@
 //AIM: DETECTS IF A TRIANGLE IS VALID OR NOT                     
 //DATE: 22ND JULY, 2021            
 
-#include <stdio.h>                                   
-#include <stdlib.h>  
+#include<stdio.h>                                   
+#include<stdlib.h>  
 
 int main (void)                     
 {                     
@@ -16,7 +16,7 @@ int main (void)
     printf("Enter third angle of the triangle: ");                       
     scanf("%f", &ang3);                      
       
-    sum = ang1 + ang2 + ang3;                 
+    sum = ang1 + ang2 + ang3;                  
              
     if (sum == 180)                             
         printf("The triangle is valid");                 
