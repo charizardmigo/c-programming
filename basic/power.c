@@ -21,5 +21,5 @@ int main(void)
 
     printf("\n%d ^ %d = %d", num, pow, result);
 
-    return0;
+    return 0;
 }
