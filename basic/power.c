@@ -19,7 +19,7 @@ int main(void)
         result *= num;
     }
 
-    printf("\n%d ^ %d = %d", num, pow, result);
+    printf("\n%d ^ %d = %d", num, pow, result)
 
-    return 0;
+        return 0;
 }
