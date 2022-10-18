@@ -11,7 +11,7 @@ int main(void)
 
     printf("Input a Base: ");
     scanf("%d", &num);
-    printf("Input an Exponent: ");
+    printf("Inputan Exponent: ");
     scanf("%d", &pow);
 
     for (i = 1; i <= pow; i++)
@@ -19,7 +19,7 @@ int main(void)
         result *= num;
     }
 
-    printf("\n%d ^ %d = %d", num, pow, result)
+    printf("\n%d ^ %d = %d\n", num, pow, result);
 
-        return 0;
+    return 0;
 }
