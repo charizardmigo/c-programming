@@ -9,7 +9,7 @@ int main(void)
 {
     int num, pow, i, result = 1;
 
-    printf("Input a Base: ");
+    printf("InputaBase: ");
     scanf("%d", &num);
     printf("Input an Exponent: ");
     scanf("%d", &pow);
