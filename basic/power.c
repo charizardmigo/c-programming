@@ -11,7 +11,7 @@ int main(void)
 
     printf("Input a Base: ");
     scanf("%d", &num);
-    printf("InputnExponent: ");
+    printf("InputanExponent: ");
     scanf("%d", &pow);
 
     for (i = 1; i <= pow; i++)
