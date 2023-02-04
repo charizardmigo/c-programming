@@ -10,7 +10,7 @@ int main(void)
     int num, pow, i, result = 1;
     printf("Input a Base: ");
     scanf("%d", &num);
-    printf("Inputanexponent: ");
+    printf("Input anexponent: ");
     scanf("%d", &pow);
 
     for (i = 1; i <= pow; i++)
